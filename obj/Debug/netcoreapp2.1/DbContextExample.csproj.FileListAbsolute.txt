@@ -1,0 +1,16 @@
+C:\Users\bridgeit\source\repos\DbContextExample\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\bridgeit\source\repos\DbContextExample\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\bridgeit\source\repos\DbContextExample\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\bridgeit\source\repos\DbContextExample\bin\Debug\netcoreapp2.1\DbContextExample.deps.json
+C:\Users\bridgeit\source\repos\DbContextExample\bin\Debug\netcoreapp2.1\DbContextExample.runtimeconfig.json
+C:\Users\bridgeit\source\repos\DbContextExample\bin\Debug\netcoreapp2.1\DbContextExample.runtimeconfig.dev.json
+C:\Users\bridgeit\source\repos\DbContextExample\bin\Debug\netcoreapp2.1\DbContextExample.dll
+C:\Users\bridgeit\source\repos\DbContextExample\bin\Debug\netcoreapp2.1\DbContextExample.pdb
+C:\Users\bridgeit\source\repos\DbContextExample\obj\Debug\netcoreapp2.1\DbContextExample.csprojAssemblyReference.cache
+C:\Users\bridgeit\source\repos\DbContextExample\obj\Debug\netcoreapp2.1\DbContextExample.RazorAssemblyInfo.cache
+C:\Users\bridgeit\source\repos\DbContextExample\obj\Debug\netcoreapp2.1\DbContextExample.RazorAssemblyInfo.cs
+C:\Users\bridgeit\source\repos\DbContextExample\obj\Debug\netcoreapp2.1\DbContextExample.AssemblyInfoInputs.cache
+C:\Users\bridgeit\source\repos\DbContextExample\obj\Debug\netcoreapp2.1\DbContextExample.AssemblyInfo.cs
+C:\Users\bridgeit\source\repos\DbContextExample\obj\Debug\netcoreapp2.1\DbContextExample.RazorTargetAssemblyInfo.cache
+C:\Users\bridgeit\source\repos\DbContextExample\obj\Debug\netcoreapp2.1\DbContextExample.dll
+C:\Users\bridgeit\source\repos\DbContextExample\obj\Debug\netcoreapp2.1\DbContextExample.pdb

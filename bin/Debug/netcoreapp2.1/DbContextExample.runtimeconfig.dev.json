@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\bridgeit\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\bridgeit\\.nuget\\packages"
+    ]
+  }
+}
