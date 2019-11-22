@@ -1,0 +1,6 @@
+C:\Users\bridgeit\Desktop\Extra Application\WcfDemo\bin\WcfDemo.dll.config
+C:\Users\bridgeit\Desktop\Extra Application\WcfDemo\bin\WcfDemo.dll
+C:\Users\bridgeit\Desktop\Extra Application\WcfDemo\bin\WcfDemo.pdb
+C:\Users\bridgeit\Desktop\Extra Application\WcfDemo\obj\Debug\WcfDemo.csprojAssemblyReference.cache
+C:\Users\bridgeit\Desktop\Extra Application\WcfDemo\obj\Debug\WcfDemo.dll
+C:\Users\bridgeit\Desktop\Extra Application\WcfDemo\obj\Debug\WcfDemo.pdb
