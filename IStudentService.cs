@@ -19,5 +19,27 @@ namespace WcfDemo
             UriTemplate ="/GetAllSTudent"
             )]
         List<Student> GetAllStudents();
+
+        [OperationContract]
+        [WebInvoke(
+          Method = "POST", RequestFormat = WebMessageFormat.Json,
+          ResponseFormat = WebMessageFormat.Json,
+          UriTemplate = "/Add"
+          )]
+        string Add(Student student);
+
+        [OperationContract]
+        [WebInvoke(
+         Method = "PUT", RequestFormat = WebMessageFormat.Json,
+         ResponseFormat = WebMessageFormat.Json,
+         UriTemplate = "/Update"
+         )]
+        bool Update(Student student);
+
+        [OperationContract]
+        [WebInvoke(Method = "DELETE", RequestFormat = WebMessageFormat.Json, ResponseFormat = WebMessageFormat.Json,
+            UriTemplate = "/delete")]
+
+        bool Delete(Student id);
     }
 }
